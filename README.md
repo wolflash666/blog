@@ -1,2 +1,2 @@
 # blog
-学Python基础的一些练习
+保存 学Python基础的一些练习
