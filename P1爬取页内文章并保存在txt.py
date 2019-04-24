@@ -9,7 +9,7 @@ url="http://www.duanmeiwen.com/zhuanti/44819.html"
 try:
     headers={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/52.0.2743.116'}
     req=urllib.request.Request(url,headers=headers)
-    data=urllib.request.urlopen(req).read().decode('gb2312','ignore')
+    data=urllib.request.urlopen(req).read().decode('gb2312','ignore')#解码防错加了“ignor”
     dammit=UnicodeDammit(data,["utf-8"])
     data=dammit.unicode_markup
     soup=BeautifulSoup(data,"lxml")
