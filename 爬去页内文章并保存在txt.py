@@ -20,7 +20,7 @@ try:
     f=open('1.txt','w')
     f.write(heti)
     f.close()
-    print("爬去成功！")
+    print("爬取成功！")
 
 except Exception as err:
     print(err)
