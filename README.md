@@ -6,11 +6,11 @@
 [s2字符串截取.py](https://github.com/wolflash666/blog/blob/master/s2%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%88%AA%E5%8F%96.py)  
 [s3创建矩阵并找出最大值.py](https://github.com/wolflash666/blog/blob/master/s3%E5%88%9B%E5%BB%BA%E7%9F%A9%E9%98%B5%E5%B9%B6%E6%89%BE%E5%87%BA%E6%9C%80%E5%A4%A7%E5%80%BC.py)  
 [s4水仙花数和四爷玫瑰花数.py](https://github.com/wolflash666/blog/blob/master/s4%E6%B0%B4%E4%BB%99%E8%8A%B1%E6%95%B0%E5%92%8C%E5%9B%9B%E7%88%B7%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%95%B0.py)  
-[s5定义一个函数来计算未来一年的年薪.py](/blob/master/s5定义一个函数来计算未来一年的年薪.py)  
-[s6定义max()函数获取列表最大值.py](/blob/master/s6定义max()函数获取列表最大值.py)  
+[s5定义一个函数来计算未来一年的年薪.py](https://github.com/wolflash666/blog/blob/master/s5%E5%AE%9A%E4%B9%89%E4%B8%80%E4%B8%AA%E5%87%BD%E6%95%B0%E6%9D%A5%E8%AE%A1%E7%AE%97%E6%9C%AA%E6%9D%A5%E4%B8%80%E5%B9%B4%E7%9A%84%E5%B9%B4%E8%96%AA.py)  
+[s6定义max()函数获取列表最大值.py](https://github.com/wolflash666/blog/blob/master/s6%E5%AE%9A%E4%B9%89max()%E5%87%BD%E6%95%B0%E8%8E%B7%E5%8F%96%E5%88%97%E8%A1%A8%E6%9C%80%E5%A4%A7%E5%80%BC.py)  
   
 ###2.python爬虫   
-[P1爬取页内文章并保存在txt.py](/blob/master/P1爬取页内文章并保存在txt.py)  
+[P1爬取页内文章并保存在txt.py](https://github.com/wolflash666/blog/blob/master/P1%E7%88%AC%E5%8F%96%E9%A1%B5%E5%86%85%E6%96%87%E7%AB%A0%E5%B9%B6%E4%BF%9D%E5%AD%98%E5%9C%A8txt.py)  
 
 ------待  续-------------
    
