@@ -11,6 +11,8 @@
   
 ### 2.python爬虫   
 [P1爬取页内文章并保存在txt.py](https://github.com/wolflash666/blog/blob/master/P1%E7%88%AC%E5%8F%96%E9%A1%B5%E5%86%85%E6%96%87%E7%AB%A0%E5%B9%B6%E4%BF%9D%E5%AD%98%E5%9C%A8txt.py)  
+[P2登陆路由管理页面换IP.py](https://github.com/wolflash666/blog/blob/master/P2%E7%99%BB%E9%99%86%E8%B7%AF%E7%94%B1%E5%99%A8%E6%8D%A2IP.py)
+
 
 ------待  续-------------
    
